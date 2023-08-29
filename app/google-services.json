@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777514830483",
+    "project_id": "fir-realtime-chat-a7c88",
+    "storage_bucket": "fir-realtime-chat-a7c88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777514830483:android:a4a1523accf2582bfc9b66",
+        "android_client_info": {
+          "package_name": "com.azrinurvani.mobile.firebasechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777514830483-lviecctlffkuur5nfvo5l1t0jmhd6omm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChKf18DVImiO-nTrjmvobpwNmE-FaZTXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777514830483-lviecctlffkuur5nfvo5l1t0jmhd6omm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
